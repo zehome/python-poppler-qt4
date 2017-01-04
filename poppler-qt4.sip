@@ -1,4 +1,4 @@
-%Module(name=popplerqt4, version=0)
+%Module(name=popplerqt4)
 
 /*
  * Bindings for Poppler-Qt4 to Python
